@@ -1,5 +1,7 @@
 # Hex Color Permutations
 
+Live site link: [https://v0-hex-color-generator.vercel.app/](https://v0-hex-color-generator.vercel.app/)
+
 ## Overview
 Hex Color Permutations is a web-based tool that generates all possible 6-character hexadecimal color combinations based on user input. This application allows users to explore color permutations by entering a sequence of hexadecimal characters (0-9, a-f) and visualizing the generated colors.
 
