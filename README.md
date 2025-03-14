@@ -1,3 +1,5 @@
+![app screenshot](https://res.cloudinary.com/benjifri/image/upload/v1741983426/from_html/bcyt9qeu8sn34r7l5bjf.jpg)
+
 # Hex Color Permutations
 
 Live site link: [https://v0-hex-color-generator.vercel.app/](https://v0-hex-color-generator.vercel.app/)
